@@ -12,8 +12,10 @@
   - )
 - ST32 NUCLEO32
   - https://github.com/mkulesh/stm32DevelopmentBoards
+- Clone of DFRobot nano v4.1
+  - https://www.dfrobot.com/product-786.html
 
 ## References
 
 - [Designing Arduino Nano Hardware](https://docs.arduino.cc/learn/hardware/nano-pcb-guide/)
-- 
+-
