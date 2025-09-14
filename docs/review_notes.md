@@ -1,12 +1,12 @@
-# Review Notes v0
+# Review Notes
 
-2025-04-21
+## 2025-04-21
 
-## Schematic
+### Schematic
 
 - ERC clear
 
-## Board
+### Board
 
 - DRC 2 errors
   - USB mini B doesnt match expected SMT vs THT: this is due to being mixed; its okay.
